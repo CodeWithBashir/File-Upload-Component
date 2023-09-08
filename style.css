@@ -169,6 +169,8 @@ html {
 
   padding: 0 0 2rem 0;
   margin-bottom: 1rem;
+
+  cursor: pointer;
 }
 
 .browse-btn {
